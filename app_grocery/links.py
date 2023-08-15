@@ -27,7 +27,7 @@ def user_login():
         else:
             flash('Username/Password Entered Was Incorrect!','danger')
 
-    return render_template('User_Login.html', title='User Login', form=form)
+    return render_template('index.html', title='User Login', form=form)
 
 @app.route('/admin', methods=['GET', 'POST'])
 def admin_login():
