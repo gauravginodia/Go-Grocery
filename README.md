@@ -56,17 +56,18 @@ This project is a backend implementation of a grocery store application, similar
 - Professional look with a custom-designed logo.
 
 ## Demo Video
-Watch the demo video here: [YouTube Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+Watch the demo video here: [YouTube Link](https://youtu.be/qdm0NxUCoUg?feature=shared)  
 (Replace with your actual YouTube link)
 
 ## How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repo-link
+   ```
 2. Navigate to the project directory:
-  ```bash
-  cd grocery-store-backend
-  ```
+   ```bash
+    cd grocery-store-backend
+   ```
 
 3.Install dependencies:
   ```bash
@@ -74,8 +75,8 @@ Watch the demo video here: [YouTube Link](https://www.youtube.com/watch?v=dQw4w9
   ```
 
 4.Run the application:
-```bash
-python run.py
-```
+  ```bash
+  python run.py
+  ```
 
 5.Open your browser and go to http://127.0.0.1:5000
