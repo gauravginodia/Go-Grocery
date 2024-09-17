@@ -6,6 +6,10 @@
 ## Project Description
 This project is a backend implementation of a grocery store application, similar to platforms like BigBasket and Grofers. The application manages user authentication, product management, and cart functionality, with admin controls to oversee and manage the store’s products and categories.
 
+## Demo Video
+
+[![Demo Video](https://img.youtube.com/vi/qdm0NxUCoUg/0.jpg)](https://youtu.be/qdm0NxUCoUg?feature=shared)
+
 ## Technologies and Frameworks Used
 - **Flask**
   - `flask_login` for user authentication.
