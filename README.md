@@ -1,8 +1,7 @@
 # Grocery Store Application (Backend)
 
 **Author:** Gaurav Ginodia  
-**Roll Number:** 22f3002972  
-**Email:** [22f3002972@ds.study.iitm.ac.in](mailto:22f3002972@ds.study.iitm.ac.in)
+**Email:** [gauravginodia02@gmail.com](mailto:gauravginodia02@gmail.com)
 
 ## Project Description
 This project is a backend implementation of a grocery store application, similar to platforms like BigBasket and Grofers. The application manages user authentication, product management, and cart functionality, with admin controls to oversee and manage the store’s products and categories.
@@ -63,14 +62,14 @@ Watch the demo video here: [YouTube Link](https://www.youtube.com/watch?v=dQw4w9
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-link
+   git clone https://github.com/your-repo-link```
 2. Navigate to the project directory:
   ```bash
-  cd grocery-store-backend
+  cd grocery-store-backend```
 3.Install dependencies:
   ```bash
-  pip install -r requirements.txt
+  pip install -r requirements.txt```
 4.Run the application:
 ```bash
-python run.py
+python run.py```
 5.Open your browser and go to http://127.0.0.1:5000
