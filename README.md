@@ -61,7 +61,6 @@ This project is a backend implementation of a grocery store application, similar
 
 ## Demo Video
 Watch the demo video here: [YouTube Link](https://youtu.be/qdm0NxUCoUg?feature=shared)  
-(Replace with your actual YouTube link)
 
 ## How to Run
 1. Clone the repository:
